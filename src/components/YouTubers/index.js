@@ -11,7 +11,7 @@ const YouTubers = () => {
             style={styles.flatListContainer}
             data={[1, 2, 3, 4, 5, 6]}
             renderItem={({item, index}) => (
-                <TouchableOpacity key={index} style={{ marginLeft: index == 0 ? 10 : 0, marginRight: 10}}>
+                <TouchableOpacity key={index} style={{marginLeft: index == 0 ? 10 : 0, marginRight: 10}}>
                     <View style={styles.oval}>
                         <Image style={styles.capa} source={require('../../assets/brancoala.jpg')} />
 

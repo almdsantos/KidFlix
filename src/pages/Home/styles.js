@@ -10,7 +10,8 @@ const styles = StyleSheet.create ({
         marginTop: 10,
     },
     previaTitle: {
-        textAlign: 'center'
+        textAlign: 'center',
+        color: 'white',
     },
 });
 

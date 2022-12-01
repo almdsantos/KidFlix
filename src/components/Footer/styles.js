@@ -16,6 +16,9 @@ const styles = StyleSheet.create({
     button: {
         backgroundColor: '#fff',
     },
+    textButton: {
+        color: 'white',
+    },
 });
 
 

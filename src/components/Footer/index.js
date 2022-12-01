@@ -13,13 +13,13 @@ const Footer = () => {
             <View style={styles.menuHeader}>
 
                 <TouchableOpacity>
-                    <Icon name="plus" color="#fff" size={20}/>
-                    <Text>Minha Lista</Text>
+                    <Icon name="plus" color="white" size={20}/>
+                    <Text style={styles.textButton}>Minha Lista</Text>
                 </TouchableOpacity>
-                <Button style={styles.button} icon="play" mode="contained" color="#fff">Assistir</Button>
+                <Button style={styles.button} icon="play" mode="contained" color="#000000">Assistir</Button>
                 <TouchableOpacity>
                     <Icon name="information-outline" color="#fff" size={20}/>
-                    <Text>Saiba Mais</Text>
+                    <Text style={styles.textButton}>Saiba Mais</Text>
                 </TouchableOpacity>
             </View>
           </View>      

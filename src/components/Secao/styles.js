@@ -5,7 +5,9 @@ const styles = StyleSheet.create ({
         width: '100%',
     },
     secaoTitle:{
+        marginTop: 10,
         marginLeft: 20,
+        color: 'white',
     },
     lista: {
         width: '100%',
