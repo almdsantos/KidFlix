@@ -1,1 +1,1 @@
-<img src="assets/KidFlix.png" >
+<img src="assets/kidflix.png" >
